@@ -1,0 +1,26 @@
+1. An ammeter and a milliammeter are converted from identical galvanometers. Which one has smaller
+resistance?
+(1) Ammeter
+(2) Milliammeter
+(3) Both have equal resistances
+(4) The resistance of ammeter may be more than or equal to that of milliammeter depending upon its range.
+
+2. A voltmeter has resistance 2000 Ω and range 0-5 V. For increasing its range upto 20 V, a resistance of
+(1) 8000 Ω should be connected in series 
+(2) 6000 Ω should be connected in series
+(3) 8000 Ω should be connected in parallel 
+(4) 6000 Ω should be connected in parallel
+
+3. Two electric bulbs A and B rated 200 V~100 W and 200 V~60 W are connected in series to a 200 V line. Then
+the potential drop across
+(1) Each bulb is 200 V
+(2) 100 W bulb is greater than that across 60 W bulb
+(3) 100 W bulb is smaller than that across 60 W bulb
+(4) Each bulb is 100 V
+
+4. Half part of a wire of resistance R is stretched to make it 1% longer and remaining half is stretched to make it
+2% longer. The new resistance of the wire is nearly
+(1) 1.04 R 
+(2) 1.03 R
+(3) 1.06 R 
+(4) R
