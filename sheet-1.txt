@@ -1,0 +1,36 @@
+1. In moving a unit positively charged body from point A to point B, external work done is 40 J and body acquires
+a kinetic energy of 20 J. The potential difference, VB – VA, is
+(1) 20 V 
+(2) –20 V
+(3) 40 V 
+(4) –40 V
+
+2. There are two concentric hollow conducting spherical shells of radii r and R (R > r). The charge on the outer
+shell is Q. What charge should be given to the inner shell, so that the potential at a point P, at a distance 2R
+from the common centre, is zero?
+
+(1) -Qr/R
+(2) −QR/r
+(3) 2QR/r
+(4) –Q
+
+3. There are two concentric conducting shells. The potential of outer shell is 10 V and that of inner shell is 15 V.
+If the outer shell is grounded, the potential of inner shell becomes/remains
+(1) 25 V 
+(2) 15 V
+(3) 10 V 
+(4) 5 V
+
+4. A capacitor is charged until it stores an energy of 1 J. A second uncharged capacitor is connected to it, so that
+charge distributes equally. The final energy stored in the second capacitor is
+(1) 1 J 
+(2) 0.5 J
+(3) 0.25 J 
+(4) 0.125 J
+
+5. A current flows in a conductor from east to west. The direction of the magnetic field at a point above the
+conductor is
+(1) Towards west 
+(2) Towards east
+(3) Towards south 
+(4) Towards north

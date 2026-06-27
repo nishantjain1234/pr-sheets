@@ -1,0 +1,27 @@
+1. A coil having 500 square loop each of side 10 cm is placed normal to a magnetic field which increases at a
+rate of 1 T/s. The induced emf in volt is
+(1) 0.1 
+(2) 0.5
+(3) 1 
+(4) 5
+
+2. The back emf in a DC motor is maximum when the
+(1) Motor has picked up maximum speed
+(2) Motor has just started moving
+(3) Speed of motor is still increasing
+(4) Motor has been switched off
+
+3. A magnetic flux of 500 microweber passing through a 200 turn coil is reversed in 20 × 10–3 s. The average
+induced emf in the coil (in volt) is
+(1) 2.5 
+(2) 5.0
+(3) 7.5 
+(4) 10.0
+
+4. A time varying magnetic flux passing through a coil is given by φ = xt2, if at t = 3 s, the emf induced is 9 V, then
+the value of x is
+(1) 0.66 Wb/s2 
+(2) –0.66 Wb/s2
+(3) 1.5 Wb/s2 
+(4) –1.5 Wb/s2
+
