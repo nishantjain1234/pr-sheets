@@ -34,3 +34,5 @@ conductor is
 (2) Towards east
 (3) Towards south 
 (4) Towards north
+
+6.
